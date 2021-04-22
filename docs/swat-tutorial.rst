@@ -288,7 +288,7 @@ tag and the second is an ``int`` indicating the plc number. For example:
 - plc2 will store an addressable real enip tag using  
   ``FIT201_2 = ('FIT201', 2)``
 - plc1 will store in its enip server an addressable real enip tag using
-  ``FIT201_1 = ('FIT201', 1)``
+  ``FIT101_1 = ('FIT101', 1)``
 
 If you want to change the initial values of the simulation open
 ``physical_process.py`` and look at:
